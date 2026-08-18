@@ -1,0 +1,23 @@
+{
+  "name": "elitea-playwright-mcp",
+  "version": "1.0.0",
+  "description": "EliteA generated playwright script will be saved here",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumardeepak02/elitea-playwright-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kumardeepak02/elitea-playwright-mcp/issues"
+  },
+  "homepage": "https://github.com/kumardeepak02/elitea-playwright-mcp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
